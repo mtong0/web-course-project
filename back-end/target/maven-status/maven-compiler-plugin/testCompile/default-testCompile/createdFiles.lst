@@ -1,0 +1,4 @@
+com/example/backend/service/SearchEngineTest.class
+com/example/backend/BackEndApplicationTests.class
+com/example/backend/repo/AnswerRepoTest.class
+com/example/backend/service/NLIServiceTest.class
